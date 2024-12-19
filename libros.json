@@ -1,0 +1,44 @@
+[
+    {
+      "category": "Libros Cristianas",
+      "products": [
+        {
+          "id": 1,
+          "title": "Libro de Actividades Bíblicas para Niños: Un Libro de Rompecabezas",
+          "description": "Este Libro de Actividades Bíblicas para Niños contiene más de 70 páginas de actividades divertidas y educativas diseñadas para ayudar a los niños a reforzar su comprensión de la Biblia.",
+          "images": [
+            "libros.jpg",
+            "libros1.jpg",
+            "libros2.jpg",
+            "libros3.jpg"
+          ],
+          "price_link": "https://www.amazon.com/dp/exampleISBN1"
+        },
+        {
+          "id": 2,
+          "title": "Colorea las palabras de Jesús: Un libro cristiano de colorear para adultoso",
+          "description": "Con este libro cristiano de colorear podrás relajarte coloreando al mismo tiempo que profundizas tu relación con el Señor.",
+          "images": [
+            "libros4.jpg",
+            "libros5.jpg",
+            "libros6.jpg",
+            "libros7.jpg"
+          ],
+          "price_link": "https://www.amazon.com/dp/exampleISBN2"
+        },
+        {
+          "id": 3,
+          "title": "IDENTIDAD QUE LIBERTA: UN DEVOCIONAL PARA ADOLESCENTES Y JÓVENES.",
+          "description": "40 Afirmaciones de Identidad. Una afirmación al final de cada capítulo que reafirma la verdad bíblica.",
+          "images": [
+           "libro8.jpg",
+            "libro9.jpg",
+            "libro10.jpg",
+            "libros11.jpg"
+          ],
+          "price_link": "https://www.amazon.com/dp/exampleISBN3"
+        }
+      ]
+    }
+  ]
+  
