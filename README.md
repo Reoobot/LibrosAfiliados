@@ -1,0 +1,2 @@
+# LibrosAfiliados
+Json static
