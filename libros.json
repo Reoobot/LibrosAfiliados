@@ -4,39 +4,39 @@
       "products": [
         {
           "id": 1,
-          "title": "Libro de Actividades Bíblicas para Niños: Un Libro de Rompecabezas",
-          "description": "Este Libro de Actividades Bíblicas para Niños contiene más de 70 páginas de actividades divertidas y educativas diseñadas para ayudar a los niños a reforzar su comprensión de la Biblia.",
+          "title": "Doce mujeres extraordinarias: Cómo Dios formó a las mujeres de la Biblia y lo qué Él quiere hacer con usted",
+          "description": "Cada capítulo incluye un resumen biográfico de cada mujer y la lección espiritual que se extrae de su vida.",
           "images": [
-            "libros.jpg",
-            "libros1.jpg",
-            "libros2.jpg",
-            "libros3.jpg"
+            "libro0.jpg",
+            "libro1.jpg",
+            "libro2.jpg",
+            "libro3.jpg"
           ],
-          "price_link": "https://www.amazon.com/dp/exampleISBN1"
+          "price_link": "https://amzn.to/4gFh0Hb"
         },
         {
           "id": 2,
-          "title": "Colorea las palabras de Jesús: Un libro cristiano de colorear para adultoso",
-          "description": "Con este libro cristiano de colorear podrás relajarte coloreando al mismo tiempo que profundizas tu relación con el Señor.",
+          "title": "Un año con Dios: 365 devocionales para la mujer ",
+          "description": "Este libro de devocionales ayudará y motivará a las lectoras a enfocar su devoción en Dios y Su Palabra.",
           "images": [
-            "libros4.jpg",
-            "libros5.jpg",
-            "libros6.jpg",
-            "libros7.jpg"
+            "libro4.jpg",
+            "libro5.jpg",
+            "libro6.jpg",
+            "libro7.jpg"
           ],
-          "price_link": "https://www.amazon.com/dp/exampleISBN2"
+          "price_link": "https://amzn.to/4iECdlI"
         },
         {
           "id": 3,
-          "title": "IDENTIDAD QUE LIBERTA: UN DEVOCIONAL PARA ADOLESCENTES Y JÓVENES.",
-          "description": "40 Afirmaciones de Identidad. Una afirmación al final de cada capítulo que reafirma la verdad bíblica.",
+          "title": "TE DESAFÍO 30 RETOS PARA ADOLESCENTES Y JÓVENES CRISTIANOS.",
+          "description": "PÁGINAS DE NOTAS en cada reto que puedes usar para escribir tus apuntes o como diario de oración.",
           "images": [
            "libro8.jpg",
             "libro9.jpg",
             "libro10.jpg",
             "libros11.jpg"
           ],
-          "price_link": "https://www.amazon.com/dp/exampleISBN3"
+          "price_link": "https://amzn.to/41J3Ofs"
         }
       ]
     }
